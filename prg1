@@ -1,0 +1,12 @@
+>>> print("ameesha")
+ameesha
+>>> print(type("ameesha"))
+<class 'str'>
+>>> print(20)
+20
+>>> print(type(20))
+<class 'int'>
+>>> print(30.5)
+30.5
+>>> print(type(30.5))
+<class 'float'>
