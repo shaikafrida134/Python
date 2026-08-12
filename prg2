@@ -1,0 +1,10 @@
+>>> x=("Ameesha",20,30.5)
+>>> print(x)
+('Ameesha', 20, 30.5)
+>>> print(type(x))
+<class 'tuple'>
+>>> A=("Afrida",19,40.5)
+>>> print(A)
+('Afrida', 19, 40.5)
+>>> print(type(A))
+<class 'tuple'>
