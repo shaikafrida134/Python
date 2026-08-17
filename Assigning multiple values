@@ -1,0 +1,4 @@
+A, B,C = "Ameesha","Afrida","Areefa"
+print(A)
+print(B)
+print(C)#Assigning multiple values
