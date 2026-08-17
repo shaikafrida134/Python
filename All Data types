@@ -1,0 +1,22 @@
+X = "Ameesha"
+print(X)
+print(type(X))
+A = 20
+print(A)
+print(type(A))
+Y = 50.0
+print(Y)
+print(type(Y))
+B =  ("Ameesha",30.5)
+print(B)
+print(type(B))
+V = True
+print(V)
+print(type(V))
+Dict={
+    'A':20,
+    'B':"Ameesha"
+
+}
+print(Dict)
+print(type(Dict))
