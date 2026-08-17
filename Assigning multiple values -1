@@ -1,0 +1,4 @@
+V=W=Y = "Ameesha"
+print(V)
+print(W)
+print(Y)
